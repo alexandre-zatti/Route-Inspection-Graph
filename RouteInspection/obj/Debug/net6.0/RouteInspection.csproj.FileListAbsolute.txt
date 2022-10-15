@@ -1,0 +1,15 @@
+/Users/ale/RiderProjects/Graphs/RouteInspection/bin/Debug/net6.0/RouteInspection
+/Users/ale/RiderProjects/Graphs/RouteInspection/bin/Debug/net6.0/RouteInspection.deps.json
+/Users/ale/RiderProjects/Graphs/RouteInspection/bin/Debug/net6.0/RouteInspection.runtimeconfig.json
+/Users/ale/RiderProjects/Graphs/RouteInspection/bin/Debug/net6.0/RouteInspection.dll
+/Users/ale/RiderProjects/Graphs/RouteInspection/bin/Debug/net6.0/RouteInspection.pdb
+/Users/ale/RiderProjects/Graphs/RouteInspection/obj/Debug/net6.0/RouteInspection.csproj.AssemblyReference.cache
+/Users/ale/RiderProjects/Graphs/RouteInspection/obj/Debug/net6.0/RouteInspection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ale/RiderProjects/Graphs/RouteInspection/obj/Debug/net6.0/RouteInspection.AssemblyInfoInputs.cache
+/Users/ale/RiderProjects/Graphs/RouteInspection/obj/Debug/net6.0/RouteInspection.AssemblyInfo.cs
+/Users/ale/RiderProjects/Graphs/RouteInspection/obj/Debug/net6.0/RouteInspection.csproj.CoreCompileInputs.cache
+/Users/ale/RiderProjects/Graphs/RouteInspection/obj/Debug/net6.0/RouteInspection.dll
+/Users/ale/RiderProjects/Graphs/RouteInspection/obj/Debug/net6.0/refint/RouteInspection.dll
+/Users/ale/RiderProjects/Graphs/RouteInspection/obj/Debug/net6.0/RouteInspection.pdb
+/Users/ale/RiderProjects/Graphs/RouteInspection/obj/Debug/net6.0/RouteInspection.genruntimeconfig.cache
+/Users/ale/RiderProjects/Graphs/RouteInspection/obj/Debug/net6.0/ref/RouteInspection.dll
